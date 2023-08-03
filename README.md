@@ -1,6 +1,7 @@
-👋 ## Hi, I’m Alex and I'm a nanotechnology engineer
-👀 I’m interested in mostly computational simulations of 2D systems, condensed matter physics and optoelectronic properties of nanomaterials and data science.
-I've worked on the radiation-matter interactions at a anode-electrolyte interface and calculations with graphene quantum dots. Currently I'm working on the Data Analyst Professional Certificate from Google and using mathematical models for machine learning to predict trends, properties and outcomes for areas like healthcare, finance and materials science.
+### Hi, I’m Alex and I'm a nanotechnology engineer
+🔬 I’m interested in mostly computational simulations of 2D systems, condensed matter physics, optoelectronic properties of nanomaterials and data science.\
+💻 I've worked on the radiation-matter interactions at a anode-electrolyte interface and calculations with graphene quantum dots.\
+👀 Currently I'm working on the Data Analyst Professional Certificate from Google and using mathematical models for machine learning to predict trends, properties and outcomes for projects in healthcare, finance and materials science.
 
 <!--
 **alexleonnano/alexleonnano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
