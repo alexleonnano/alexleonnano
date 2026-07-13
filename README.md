@@ -1,7 +1,7 @@
-### Hi, I’m Alex and I'm a nanotechnology engineer
+### Hi, I’m Alex
 🔬 I’m interested in computational simulations of light-matter interactions of nanomaterials, condensed matter physics and photonics.\
-💻 I've worked on the radiation-matter interactions at a anode-electrolyte interface and calculations with graphene quantum dots.\
-👀 Currently I'm a PhD student in photonics, focusing on ultrashort laser pulses and the radiation-matter interaction of this with different colloidal nanoparticles and in-situ detection of properties of nanomaterials using complex beam shaping in pulsed laser ablation in liquids.
+💻 I've worked on the radiation-matter interactions of nanomaterials.\
+👀 Currently I'm a PhD student in photonics, focusing on ultrashort laser pulses and the interaction of these with different colloidal nanoparticles for in-situ characterization of nanomaterials assisted with complex beam shaping.
 
 <!--
 **alexleonnano/alexleonnano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
